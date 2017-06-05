@@ -1,0 +1,23 @@
+body
+
+#main_pic {
+    background-position: center;
+    background-color: rgba(0,0,0,0.9);
+    background-image: url("main_pic.png");
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+footer
+
+#portfoliopictures {
+    background-position: center;
+    background-image: url("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 50px;
+
+}

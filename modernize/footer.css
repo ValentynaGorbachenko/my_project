@@ -1,0 +1,8 @@
+footer
+#Portfolio {
+
+    background-image: url("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+    display: inline-block;
+    background-position: center;
+    margin:auto;
+}

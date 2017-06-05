@@ -1,0 +1,80 @@
+body {
+
+  background-color: rgba(0,0,0,0.9);
+  background-image: url('logo.png');
+  margin-left: 50px; margin-left: 20px;
+  background-repeat: no-repeat;
+  display: block;
+  color: #999999;
+  text-align: center;
+  margin-top: auto;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bolder;
+  font-family: sans-serif;
+  img src:('main_pic.png');
+  padding: 50px;
+
+}
+ul {
+
+
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #666666;
+    margin: top 20px;
+    margin-left: 8px;
+}
+
+li {
+
+    float: left;
+}
+li a {
+
+}
+#links{
+  display: inline-block;
+
+  background-color: #666666;
+
+}
+#Home, #Blog, #Portfolio., #Shortcodes, #Features, #Contact{
+}
+#Home{
+
+  background-color: #666666;
+}
+#Blog{
+  background-color: #666666;
+}
+#Portfolio.{
+  background-color: #666666;
+}
+#Shortcodes{
+  background-color: #666666;
+}
+#Features{
+  background-color: #666666;
+}
+#Contact{
+  background-color: #666666;
+
+}
+
+footer {
+  margin-top: 20px;
+  display: inline-table;
+  <img src: ("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+  background-repeat: no-repeat;
+  margin-top: 20px;
+  padding-bottom: 50px;
+}
+#portfoliopictures
+{
+      ("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+      display: block;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin: 50px;
+  }
