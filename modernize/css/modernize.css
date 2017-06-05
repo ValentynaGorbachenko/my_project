@@ -12,7 +12,7 @@ body {
   text-decoration: none;
   font-weight: bolder;
   font-family: sans-serif;
-  img src:('main_pic.png');
+  /*img src:('main_pic.png');*/
   padding: 50px;
 
 }
@@ -22,8 +22,9 @@ ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #666666;
-    margin: top 20px;
+    margin-top: 20px;
     margin-left: 8px;
+    background-color: #666666;
 }
 
 li {
@@ -33,31 +34,32 @@ li {
 li a {
 
 }
-#links{
+/*#links {
   display: inline-block;
 
   background-color: #666666;
 
+}*/
+#Home, #Blog, #Portfolio, #Shortcodes, #Features, #Contact {
+
 }
-#Home, #Blog, #Portfolio., #Shortcodes, #Features, #Contact{
-}
-#Home{
+#Home {
 
   background-color: #666666;
 }
 #Blog{
   background-color: #666666;
 }
-#Portfolio.{
+#Portfolio {
   background-color: #666666;
 }
-#Shortcodes{
+#Shortcodes {
   background-color: #666666;
 }
-#Features{
+#Features {
   background-color: #666666;
 }
-#Contact{
+#Contact {
   background-color: #666666;
 
 }
@@ -65,16 +67,22 @@ li a {
 footer {
   margin-top: 20px;
   display: inline-table;
-  <img src: ("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+  /*<img src: ("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");*/ 
   background-repeat: no-repeat;
   margin-top: 20px;
   padding-bottom: 50px;
 }
-#portfoliopictures
-{
-      ("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");
+#portfoliopictures {
+      /*("portfolio1.png, portfolio2.png, portfolio3.png, portfolio4.png");*/
       display: block;
       background-repeat: no-repeat;
       background-position: center;
       margin: 50px;
-  }
+}
+
+#my_class {
+  background-color: red;
+}
+
+
+
